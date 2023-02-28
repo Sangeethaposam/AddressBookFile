@@ -1,0 +1,4 @@
+{"Book":{"contactList":[{"name":"Geetha","lastName":"Undala","address":"Nandi","city":"Kozhikode","state":"karimnagar","phoneNo":"34354546","zipCode":"23"},
+{"name":"Kavya","lastName":"posam","address":"gtl","city":"gtl","state":"atp","phoneNo":"3456788855","zipCode":"232435"}],
+"contactsByCity":{"Kozhikode":["name":"Geetha","lastName":"Undala","address":"Nandi","city":"Kozhikode","state":"karimnagar","phoneNo":"34354546","zipCode":"23"}],
+"gtl":[{"name":"Kavya","lastName":"posam","address":"gtl","city":"gtl","state":"atp","phoneNo":"3456788855","zipCode":"232435"}]
